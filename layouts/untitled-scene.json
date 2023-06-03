@@ -18,56 +18,13 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 0.5468750000000002,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [],
-  "objects": [
-    {
-      "assetStoreId": "",
-      "name": "NewSprite",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "NewSprite4",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "objects": [],
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -98,14 +55,9 @@
       "ambientLightColorB": 0,
       "ambientLightColorG": 8042920,
       "ambientLightColorR": 16,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 0.1,
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
       "name": "",
-      "renderingType": "",
       "visibility": true,
       "cameras": [
         {
